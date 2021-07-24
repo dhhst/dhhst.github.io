@@ -1,7 +1,8 @@
-# dhhst.github.io
------------------------
-まだ非公開
+# 閉鎖されました
+----------------------
 
-詳しく見たいって人はhtmlをダウンロードしてね
+閉鎖済み
 
 https://github.com/dhhst/dhhst.github.io/archive/refs/heads/main.zip
+
+↑ソースコード
